@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "",
+  summary: "Some utilities to handle with geo coordinates in Meteor.",
   version: "0.1.0",
   name: "jesty:geoutils",
   git: "https://github.com/jesty/geoutils-meteor.git",
