@@ -1,7 +1,7 @@
 # geoutils-meteor
 Some utilities to handle with geo coordinates in Meteor. This utilities could used both on server and client side.
 
-Documentation:
+##Documentation:
 
 **radians(degrees)**: Converts from degrees to radians.
 
